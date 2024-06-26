@@ -1,0 +1,26 @@
+2024-06-25 13:11:59,248 - ERROR - Error loading the model: C:\Users\Himesh\Downloads\new_senti\twitter_sentiment_compressed.pkl.gz
+2024-06-25 13:20:49,553 - ERROR - Error loading model: pickle data was truncated
+2024-06-25 13:21:17,421 - ERROR - Error loading model: pickle data was truncated
+2024-06-25 13:21:27,473 - ERROR - Error loading model: pickle data was truncated
+2024-06-25 13:21:28,102 - ERROR - Error loading model: pickle data was truncated
+2024-06-25 13:22:07,853 - ERROR - Error loading model: pickle data was truncated
+2024-06-25 13:22:15,557 - ERROR - Error loading model: pickle data was truncated
+2024-06-25 13:22:15,861 - ERROR - Error loading model: pickle data was truncated
+2024-06-25 13:24:10,477 - ERROR - Error loading model: pickle data was truncated
+2024-06-25 13:24:16,904 - ERROR - Error loading model: pickle data was truncated
+2024-06-25 13:24:17,298 - ERROR - Error loading model: pickle data was truncated
+2024-06-25 13:31:13,759 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:31:23,548 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:31:24,016 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:33:55,335 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:34:02,320 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:34:02,748 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:34:41,764 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:34:48,426 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:34:48,871 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:35:23,923 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:35:29,761 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:35:30,120 - ERROR - Error loading model: Not a gzipped file (b'\x80\x04')
+2024-06-25 13:38:09,492 - INFO - Model loaded successfully.
+2024-06-25 13:38:20,195 - INFO - Model loaded successfully.
+2024-06-25 13:38:22,612 - INFO - Model loaded successfully.
